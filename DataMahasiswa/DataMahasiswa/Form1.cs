@@ -53,6 +53,7 @@ Password =;");
             {
                 cone.Execute("insert into mahasiswa(nim,nama,alamat) values(@id,@name,@addrs)", new { id = txtNim.Text, name = txtNama.Text, addrs = txtAlamat.Text });
                 load();
+                empt();
                 MessageBox.Show("Input Berhasil");
             }
             catch(Exception a)
