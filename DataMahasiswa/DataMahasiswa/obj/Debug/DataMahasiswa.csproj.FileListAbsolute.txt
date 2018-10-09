@@ -1,0 +1,13 @@
+E:\IC\DataMahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.exe.config
+E:\IC\DataMahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.exe
+E:\IC\DataMahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.pdb
+E:\IC\DataMahasiswa\DataMahasiswa\bin\Debug\Dapper.dll
+E:\IC\DataMahasiswa\DataMahasiswa\bin\Debug\Dapper.xml
+E:\IC\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.csprojAssemblyReference.cache
+E:\IC\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.Form1.resources
+E:\IC\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.Properties.Resources.resources
+E:\IC\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.csproj.GenerateResource.cache
+E:\IC\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.csproj.CoreCompileInputs.cache
+E:\IC\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.csproj.CopyComplete
+E:\IC\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.exe
+E:\IC\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.pdb
